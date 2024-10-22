@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/gozargah/marzban" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/SSaeedhoseini/marzban" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gozargah/Marzban-docs/raw/master/screenshots/logo-dark.png">
-      <img width="160" height="160" src="https://github.com/Gozargah/Marzban-docs/raw/master/screenshots/logo-light.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SSaeedhoseini/Marzban-docs/raw/master/screenshots/logo-dark.png">
+      <img width="160" height="160" src="https://github.com/SSaeedhoseini/Marzban-docs/raw/master/screenshots/logo-light.png">
     </picture>
   </a>
 </p>
@@ -16,13 +16,13 @@
 <br/>
 <p align="center">
     <a href="#">
-        <img src="https://img.shields.io/github/actions/workflow/status/gozargah/marzban/build.yml?style=flat-square" />
+        <img src="https://img.shields.io/github/actions/workflow/status/SSaeedhoseini/marzban/build.yml?style=flat-square" />
     </a>
-    <a href="https://hub.docker.com/r/gozargah/marzban" target="_blank">
-        <img src="https://img.shields.io/docker/pulls/gozargah/marzban?style=flat-square&logo=docker" />
+    <a href="https://hub.docker.com/r/SSaeedhoseini/marzban" target="_blank">
+        <img src="https://img.shields.io/docker/pulls/SSaeedhoseini/marzban?style=flat-square&logo=docker" />
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/license/gozargah/marzban?style=flat-square" />
+        <img src="https://img.shields.io/github/license/SSaeedhoseini/marzban?style=flat-square" />
     </a>
     <a href="https://t.me/gozargah_marzban" target="_blank">
         <img src="https://img.shields.io/badge/telegram-group-blue?style=flat-square&logo=telegram" />
@@ -31,7 +31,7 @@
         <img src="https://img.shields.io/badge/twitter-commiunity-blue?style=flat-square&logo=twitter" />
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/stars/gozargah/marzban?style=social" />
+        <img src="https://img.shields.io/github/stars/SSaeedhoseini/marzban?style=social" />
     </a>
 </p>
 
@@ -54,8 +54,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gozargah/marzban" target="_blank" rel="noopener noreferrer" >
-    <img src="https://github.com/Gozargah/Marzban-docs/raw/master/screenshots/preview.png" alt="Marzban screenshots" width="600" height="auto">
+  <a href="https://github.com/SSaeedhoseini/marzban" target="_blank" rel="noopener noreferrer" >
+    <img src="https://github.com/SSaeedhoseini/Marzban-docs/raw/master/screenshots/preview.png" alt="Marzban screenshots" width="600" height="auto">
   </a>
 </p>
 
@@ -107,7 +107,7 @@ Marzban 是一个用户友好、功能丰富且可靠的工具。它让您可以
 Run the following command
 
 ```bash
-sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/marzban.sh)" @ install
+sudo bash -c "$(curl -sL https://github.com/SSaeedhoseini/Marzban-scripts/raw/master/marzban.sh)" @ install
 ```
 
 Once the installation is complete:
@@ -149,7 +149,7 @@ bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release
 您需要 Python>=3.8 版本。
 
 ```bash
-git clone https://github.com/Gozargah/Marzban.git
+git clone https://github.com/SSaeedhoseini/Marzban.git
 cd Marzban
 wget -qO- https://bootstrap.pypa.io/get-pip.py | python3 -
 python3 -m pip install -r requirements.txt
@@ -334,7 +334,7 @@ Marzban 配备了一个集成的 Telegram bot，可以处理服务器管理、�
 
 我们热爱贡献者！如果您想做出贡献，请查看我们的[贡献指南](CONTRIBUTING.md)并随时提交拉取请求或打开问题。我们也欢迎您加入我们的 [Telegram](https://t.me/gozargah_marzban) 群组，以获得支持或贡献指导。
 
-查看 [issues](https://github.com/gozargah/marzban/issues) 以帮助改进这个项目。
+查看 [issues](https://github.com/SSaeedhoseini/marzban/issues) 以帮助改进这个项目。
 
 
 
@@ -342,7 +342,7 @@ Marzban 配备了一个集成的 Telegram bot，可以处理服务器管理、�
 感谢所有为改善 Marzban 做出贡献的贡献者们：
 </p>
 <p align="center">
-<a href="https://github.com/Gozargah/Marzban/graphs/contributors">
+<a href="https://github.com/SSaeedhoseini/Marzban/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Gozargah/Marzban" />
 </a>
 </p>

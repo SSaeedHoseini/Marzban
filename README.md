@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/gozargah/marzban" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/SSaeedhoseini/marzban" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gozargah/Marzban-docs/raw/master/screenshots/logo-dark.png">
-      <img width="160" height="160" src="https://github.com/Gozargah/Marzban-docs/raw/master/screenshots/logo-light.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SSaeedhoseini/Marzban-docs/raw/master/screenshots/logo-dark.png">
+      <img width="160" height="160" src="https://github.com/SSaeedhoseini/Marzban-docs/raw/master/screenshots/logo-light.png">
     </picture>
   </a>
 </p>
@@ -16,13 +16,13 @@
 <br/>
 <p align="center">
     <a href="#">
-        <img src="https://img.shields.io/github/actions/workflow/status/gozargah/marzban/build.yml?style=flat-square" />
+        <img src="https://img.shields.io/github/actions/workflow/status/SSaeedhoseini/marzban/build.yml?style=flat-square" />
     </a>
-    <a href="https://hub.docker.com/r/gozargah/marzban" target="_blank">
-        <img src="https://img.shields.io/docker/pulls/gozargah/marzban?style=flat-square&logo=docker" />
+    <a href="https://hub.docker.com/r/SSaeedhoseini/marzban" target="_blank">
+        <img src="https://img.shields.io/docker/pulls/SSaeedhoseini/marzban?style=flat-square&logo=docker" />
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/license/gozargah/marzban?style=flat-square" />
+        <img src="https://img.shields.io/github/license/SSaeedhoseini/marzban?style=flat-square" />
     </a>
     <a href="https://t.me/gozargah_marzban" target="_blank">
         <img src="https://img.shields.io/badge/telegram-group-blue?style=flat-square&logo=telegram" />
@@ -31,7 +31,7 @@
         <img src="https://img.shields.io/badge/twitter-commiunity-blue?style=flat-square&logo=twitter" />
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/stars/gozargah/marzban?style=social" />
+        <img src="https://img.shields.io/github/stars/SSaeedhoseini/marzban?style=social" />
     </a>
 </p>
 
@@ -54,8 +54,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gozargah/marzban" target="_blank" rel="noopener noreferrer" >
-    <img src="https://github.com/Gozargah/Marzban-docs/raw/master/screenshots/preview.png" alt="Marzban screenshots" width="600" height="auto">
+  <a href="https://github.com/SSaeedhoseini/marzban" target="_blank" rel="noopener noreferrer" >
+    <img src="https://github.com/SSaeedhoseini/Marzban-docs/raw/master/screenshots/preview.png" alt="Marzban screenshots" width="600" height="auto">
   </a>
 </p>
 
@@ -110,7 +110,7 @@ Marzban is user-friendly, feature-rich and reliable. It lets you to create diffe
 Run the following command
 
 ```bash
-sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/marzban.sh)" @ install
+sudo bash -c "$(curl -sL https://github.com/SSaeedhoseini/Marzban-scripts/raw/master/marzban.sh)" @ install
 ```
 
 Once the installation is complete:
@@ -150,7 +150,7 @@ bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release
 Clone this project and install the dependencies (you need Python >= 3.8)
 
 ```bash
-git clone https://github.com/Gozargah/Marzban.git
+git clone https://github.com/SSaeedhoseini/Marzban.git
 cd Marzban
 wget -qO- https://bootstrap.pypa.io/get-pip.py | python3 -
 python3 -m pip install -r requirements.txt
@@ -338,8 +338,8 @@ For more information, You can read [Marzban CLI's documentation](./cli/README.md
 
 # Marzban Node
 
-The Marzban project introduces the [Marzban-node](https://github.com/gozargah/marzban-node), which revolutionizes infrastructure distribution. With Marzban-node, you can distribute your infrastructure across multiple locations, unlocking benefits such as redundancy, high availability, scalability, flexibility. Marzban-node empowers users to connect to different servers, offering them the flexibility to choose and connect to multiple servers instead of being limited to only one server.
-For more detailed information and installation instructions, please refer to the [Marzban-node official documentation](https://github.com/gozargah/marzban-node)
+The Marzban project introduces the [Marzban-node](https://github.com/SSaeedhoseini/marzban-node), which revolutionizes infrastructure distribution. With Marzban-node, you can distribute your infrastructure across multiple locations, unlocking benefits such as redundancy, high availability, scalability, flexibility. Marzban-node empowers users to connect to different servers, offering them the flexibility to choose and connect to multiple servers instead of being limited to only one server.
+For more detailed information and installation instructions, please refer to the [Marzban-node official documentation](https://github.com/SSaeedhoseini/marzban-node)
 
 # Webhook notifications
 
@@ -388,13 +388,13 @@ Made in [Unknown!] and Published under [AGPL-3.0](./LICENSE).
 
 We ❤️‍🔥 contributors! If you'd like to contribute, please check out our [Contributing Guidelines](CONTRIBUTING.md) and feel free to submit a pull request or open an issue. We also welcome you to join our [Telegram](https://t.me/gozargah_marzban) group for either support or contributing guidance.
 
-Check [open issues](https://github.com/gozargah/marzban/issues) to help the progress of this project.
+Check [open issues](https://github.com/SSaeedhoseini/marzban/issues) to help the progress of this project.
 
 <p align="center">
 Thanks to the all contributors who have helped improve Marzban:
 </p>
 <p align="center">
-<a href="https://github.com/Gozargah/Marzban/graphs/contributors">
+<a href="https://github.com/SSaeedhoseini/Marzban/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Gozargah/Marzban" />
 </a>
 </p>
